@@ -534,7 +534,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "resources/uDB-S1-3D-model.STEP",
+      "step": "Lil-CC.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
