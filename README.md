@@ -1,4 +1,4 @@
-# Lil-CC: A C to C interconnect for split keyboards.
+# Lil-CC: A C to C interconnect for split keyboards. (thinner version for surface mount only)
 
 Based off of the Unified-Daughterboard project, this surface mount board allows you to add USB C-C interconnects on your split keyboard projects, minimizing the risk of MCU damage over standard TRRS cables. Could also be used as a surface mount USB MCU connection, but has not be tested in that capacity.
 
